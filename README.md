@@ -6,7 +6,3 @@ is available in [here](https://github.com/sseung0703/KD_methods_with_TF)
 
 ## The presentation materials
 explain our proposed method and the problem in previous methods. I think it is very important. Because they were not so seriously thinking about what is the neural network's knowledge.
-
-
-## To do
-upload oral presentation material after presenting in BMVC2019 (because it will have updated until then 🤣) 
